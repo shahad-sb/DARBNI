@@ -2,7 +2,7 @@ import cohere
 import os
 
 # getting API key
-API_KEY= "bhopo2vlz6dGq4gZENrZCBbjUzDeggL3RZURsmjF"
+API_KEY= ""
 
 # Setting up the cohere client
 co = cohere.Client(API_KEY)
